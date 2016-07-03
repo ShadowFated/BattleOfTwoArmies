@@ -1,4 +1,4 @@
-# BattleOfTwoArmies
+# Battle of Two Armies
 
 _____██████ ]▄▄▄▄▄▄▄▄▃                         
 ▂▄▅████████▅▄▃▂                                   
